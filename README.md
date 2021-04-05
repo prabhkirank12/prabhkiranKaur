@@ -39,7 +39,7 @@
 
 <a href="https://github.com/prabhkirank12">
   <img src = "https://github-readme-stats.vercel.app/api?username=prabhkirank12&show_icons=true&theme=bear&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prabhkirank12&hide=css,java,html&theme=bear">
+  <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prabhkirank12&hide=css,java,html&theme=bear">
 </a>
 
 ---
