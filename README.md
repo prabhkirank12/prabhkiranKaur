@@ -4,9 +4,10 @@
 
 
 <p align='center' margin-top="5">
-<a href="https://angel.co/u/prabhkiran-kaur" target="_blank"><img height="30" src="img/angel-icon.png"></a>
-<a href="https://www.linkedin.com/in/prabhkiran-kaur-a4754161/" target="_blank"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+  <a href="https://angel.co/u/prabhkiran-kaur" target="_blank"><img height="30" src="img/angel-icon.png"></a>
+  <a href="https://www.linkedin.com/in/prabhkiran-kaur-a4754161/" target="_blank"><img height="30"        src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
+
 
 <h2 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <h2>
 
@@ -38,10 +39,11 @@
 ---
 
 <a href="https://github.com/prabhkirank12">
-  <img src = "https://github-readme-stats.vercel.app/api?username=prabhkirank12&show_icons=true&theme=bear&line_height=27">
+  <img align="left" src = "https://github-readme-stats.vercel.app/api?username=prabhkirank12&show_icons=true&theme=bear&line_height=27">
   <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prabhkirank12&hide=css,java,html&theme=bear">
-  <img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhkirank12" />
 </a>
 
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhkirank12" />
 
- [![](https://komarev.com/ghpvc/?username=prabhkirank12)](https://github.com/prabhkirank12)
+[![](https://komarev.com/ghpvc/?username=prabhkirank12)](https://github.com/prabhkirank12)
+ 
