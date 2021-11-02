@@ -8,14 +8,11 @@
   <a href="https://www.linkedin.com/in/prabhkiran-kaur-a4754161/" target="_blank"><img height="30"        src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-
-<h2 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <h2>
-
-  ## 👩 About Me 
+---
+  ## 👩 About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - Love learning new technologies and creating different projects <img src="https://media.giphy.com/media/pALw8LdftuqAw/giphy.gif" width="25px">
 - Exploring different restaurants <img src="https://media.giphy.com/media/dzTov7mv8kUAhX5m1L/giphy.gif" width="25px">
-- Open to Internship Opportunities now <img src="https://media.giphy.com/media/H6Yo6gSSEQ7bwbh9VN/giphy.gif" width="25px">
 
 ---
   ## ⚡ Technologies
